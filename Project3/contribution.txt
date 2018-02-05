@@ -1,0 +1,25 @@
+Chang Hyun Park (4):
+      Initial commit
+      Updates inputs/outputs and Makefile
+      Updates sammple outputs affected by BEQ/BNE behavior change
+      Updates the BEQ test input files
+
+lovelife (4):
+      Implemented Part of ID Stage
+      Implemented Part of MEM Stage
+      Modified EX/MEM/WB basic stage
+      COMMIT"
+
+okas832 (11):
+      Edit All Indentation and Fix some type warnings
+      Fixes wrong output of example05
+      Define each pipeline process function
+      Add temp State
+      Define Pipeline Stages and Implement IF Stage
+      Implemented Part of EX Stage
+      Rewrite the code
+      Rewrite the code
+      ReRewrite the code
+      run.c
+      Bug fix(Part of)
+
